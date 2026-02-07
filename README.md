@@ -10,7 +10,8 @@
 
 ###
 
-<p align="center">Front-End Developer focused on clean UI, responsive design, and modern web experiences.
+<p align="center">Front-End Developer focused on clean UI, responsive design, and modern web experiences.</p>
+<p align="center"
  <a href="https://drive.google.com/file/d/1o_CO_FFXDi3EsrXV05wrB4AJSnTtEnDW/view?usp=sharing">
       <img src="https://img.shields.io/badge/My CV-007520?style=flat&logo=googledrive&logoColor=white" style="height:35px; object-fit:contain;"/></a> &nbsp;
 </p>
