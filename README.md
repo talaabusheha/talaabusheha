@@ -17,7 +17,7 @@
 </p>
 
 
-<h4 align="left">Contact & Socials</h4>
+<h3 align="left">📤Contact & Socials</h3>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h4 align="left">Top Technical Skills & Tools</h4>
+<h3 align="left">Top Technical Skills & Tools</h3>
 
 ###
 
