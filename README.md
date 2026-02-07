@@ -8,7 +8,7 @@
 
 <h2 align="center">Software Engineer | Front-End Developer</h2>
 
-###
+
 
 <p align="center">Front-End Developer focused on clean UI, responsive design, and modern web experiences.</p>
 <p align="center"
