@@ -25,9 +25,11 @@
  <a href="https://www.linkedin.com/in/talaabusheha2832005/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="50" alt="linkedin logo"  />
   </a>
+ <img width="5" />
   <a href="https://www.instagram.com/tala_abusheha/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="50" alt="instagram logo"  />
   </a>
+ <img width="5" />
   <a href="mailto:talaabusheha@gmail.com" target="_blank">
   <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/>
   </a>
