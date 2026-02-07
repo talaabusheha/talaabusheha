@@ -11,6 +11,8 @@
 ###
 
 <p align="center">Front-End Developer focused on clean UI, responsive design, and modern web experiences.</p>
+ <a href="CV Tala Abusheha.pdf">
+      <img src="https://img.shields.io/badge/My CV-007520?style=flat&logo=googledrive&logoColor=white" style="height:35px; object-fit:contain;"/></a> &nbsp;
 
 ###
 
