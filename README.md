@@ -22,8 +22,8 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/talaabusheha2832005/" target="_blank">
-   <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
+ <a href="https://www.linkedin.com/in/talaabusheha2832005/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/tala_abusheha/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="50" alt="instagram logo"  />
