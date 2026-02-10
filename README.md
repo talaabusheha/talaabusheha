@@ -12,9 +12,8 @@
 
 <p align="center">Front-End Developer focused on clean UI, responsive design, and modern web experiences.</p>
 <p align="center"
-<a href="https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view">
+<a href="https://drive.google.com/file/d/1o_CO_FFXDi3EsrXV05wrB4AJSnTtEnDW/view?usp=sharing">
       <img src="https://img.shields.io/badge/My CV-007520?style=flat&logo=googledrive&logoColor=white" style="height:35px; object-fit:contain;"/></a> &nbsp;
-
 
 </p>
 
@@ -78,12 +77,13 @@
 <p align="left">HTML • CSS • JavaScript • Tailwind CSS • Bootstrap • Git • GitHub</p>
 
 ###
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-Hemeda&theme=github_dark)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/talaabusheha/talaabusheha/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/talaabusheha/talaabusheha/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/talaabusheha/talaabusheha/output/pacman-contribution-graph.svg">
 </picture>
+
+  [![My CV](https://img.shields.io/badge/My%20CV-0075D2?style=flat&logo=googledrive&logoColor=white)]
 
 ###
