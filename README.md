@@ -78,6 +78,7 @@
 <p align="left">HTML • CSS • JavaScript • Tailwind CSS • Bootstrap • Git • GitHub</p>
 
 ###
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-Hemeda&theme=github_dark)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/talaabusheha/talaabusheha/output/pacman-contribution-graph-dark.svg">
