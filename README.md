@@ -84,6 +84,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/talaabusheha/talaabusheha/output/pacman-contribution-graph.svg">
 </picture>
 
-  [![My CV](https://img.shields.io/badge/My%20CV-0075D2?style=flat&logo=googledrive&logoColor=white)]
-
 ###
